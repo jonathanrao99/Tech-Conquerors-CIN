@@ -1,7 +1,7 @@
 # Tech-Conquerors-CIN
 __AR Chatbot__
 
-This chatbot is made up of a cutting-edge fusion of artificial intelligence (AI) and augmented reality technologies. This innovative chatbot creates a truly immersive and engaging user experience by overlaying virtual elements seamlessly into the user's real-world environment, offering a unique way to interact with AI-driven systems.
+This chatbot combines the technologies of Artifical Intelligence(AI) and Augmented Reality(AR). This innovative chatbot creates a truly immersive and engaging user experience by overlaying virtual elements seamlessly into the user's real-world environment, offering a unique way to interact with AI-driven systems.
 
 
 The AR chatbot uses the device's camera to merge virtual elements into the user's physical surroundings. This technology enables a mixed-reality experience where the chatbot interacts within the user's environment which opens up exciting possibilities for education, entertainment, and practical everyday applications in various domains.
